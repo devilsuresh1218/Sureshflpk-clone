@@ -1,7 +1,7 @@
 
 # Flipkart Clone MERN APP
 
-[Dhaval Patel's](https://github.com/dhavalnpatel/) Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart.
+[Suresh Kumar](https://github.com/devilsuresh1218) Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart.
 - It has strong authentication system  with SMS OTP verification. 
 - It has Paytm Integration so that it can get money from anywhere.
 
@@ -48,7 +48,7 @@ https://flipkart-web.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/dhavalnpatel/flipkart-clone.git
+  git clone (https://github.com/devilsuresh1218/Sureshflpk-clone.git)
 ```
 
 Go to the project directory
